@@ -26,7 +26,7 @@
 
 # YOUR CODE HERE to define temp_classifier
 def temp_classifie(temp_celsius):
-  """classify the input temperature"""
+  """Create a "temp_classifie" that classifies the temperature and return the classification number."""
   if temp_celsius<-2:
     number=0
   elif -2<=temp_celsius<2:
