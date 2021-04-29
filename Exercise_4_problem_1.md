@@ -11,7 +11,6 @@ If everything in your script is working properly the following test case should 
   32 degrees Fahrenheit in Celsius is: 0.0
   ```
   
-
 **Notice**: Closely follow the instructions! For example, you should be sure to use **exactly** the same variable, function, and parameter names as stated in the instructions. 
 
 **Your score on this problem will be based on following criteria:**
